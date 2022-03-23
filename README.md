@@ -1,2 +1,2 @@
 # themememaker
-Es un proyecto sencillo, con el cual he iniciado mi aprendizaje de React y las herramientas que nos ofrece esta libreria.
+It's a simple project, with which I have started my learning of React and the tools that this library offers us.
